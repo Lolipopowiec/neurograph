@@ -1,0 +1,16 @@
+name: tvb
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - tvb-library
+  - ipywidgets
+  - scikit-learn
+
